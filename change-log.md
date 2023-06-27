@@ -4,7 +4,7 @@
 
 Features:
 
-- Testing staging workflow and instrumental tests
+- Testing staging workflow and instrumental tests.
 
 ## 1.0.0 (22-06-2023)
 
