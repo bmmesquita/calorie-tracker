@@ -37,5 +37,4 @@ Android calorie tracker app built with Jetpack Compose and Open Food API.
 
 ## Download
 
-| ![google play](demo/gp_badge.png) |
-|-----------------------------------|
+[<img src="demo/gp_badge.png" width="400">](https://play.google.com/store/apps/details?id=com.bemesquita.calorietracker)
